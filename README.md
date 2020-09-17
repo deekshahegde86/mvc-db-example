@@ -1,1 +1,2 @@
-# mvc-db-example
+# skaffold-example
+Skaffold Example
